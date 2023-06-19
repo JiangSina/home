@@ -116,7 +116,10 @@ table, th, td {
 table img{
 	margin:0;
 }
-
+/*Centres Table Title*/
+#fatuiTitle{
+	text-align: center;
+}
 
 /*Formats Image Sizing*/
 #crystal, #pinkTrinket{
