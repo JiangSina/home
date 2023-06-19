@@ -175,7 +175,7 @@ iframe{
 }
 
 /* Validators Sizing*/
-#validator{
+#validator, #validator2{
 	height:50px;
 	width:120px;
 }
