@@ -173,3 +173,9 @@ iframe{
 	padding: 5px;
 	text-align: center;
 }
+
+/* Validators Sizing*/
+img.validator{
+	height:50px;
+	width:120px;
+}
